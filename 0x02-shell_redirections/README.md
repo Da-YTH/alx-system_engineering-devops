@@ -1,1 +1,1 @@
-Display the content of /etc/passwd and /etc/hosts
+0x02. Shell, I/O Redirections and filters
